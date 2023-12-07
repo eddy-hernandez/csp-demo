@@ -14,3 +14,7 @@ node server.js
 // open http://localhost:3000 - click the button
 // view logs in console
 ```
+
+Example output:
+
+<img width="1252" alt="image" src="https://github.com/eddy-hernandez/csp-demo/assets/146758600/c1c61dd3-683d-4eed-841c-d89bc276e1fa">
